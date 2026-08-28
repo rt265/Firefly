@@ -5,3 +5,14 @@ allowBuilds:
   workerd: true
 minimumReleaseAgeExclude:
   - '@astrojs/vercel@11.0.8'
+  - '@biomejs/biome@2.5.11'
+  - '@biomejs/cli-darwin-arm64@2.5.11'
+  - '@biomejs/cli-darwin-x64@2.5.11'
+  - '@biomejs/cli-linux-arm64-musl@2.5.11'
+  - '@biomejs/cli-linux-arm64@2.5.11'
+  - '@biomejs/cli-linux-x64-musl@2.5.11'
+  - '@biomejs/cli-linux-x64@2.5.11'
+  - '@biomejs/cli-win32-arm64@2.5.11'
+  - '@biomejs/cli-win32-x64@2.5.11'
+  - astro@7.2.9
+  - subset-font@2.6.0
